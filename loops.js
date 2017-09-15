@@ -8,7 +8,8 @@ function forLoop (array) {
   }
   return array
 }
-function whileLoop(array){
+
+function whileLoop(){
 
   while (countdown>0){
     var countdown = 100
