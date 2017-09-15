@@ -9,8 +9,9 @@ function forLoop (array) {
   return array
 }
 function whileLoop(array){
-  let countdown = 5
+
   while (countdown>0){
+    var countdown = 100
     console.log(--countdown)
   }
   return "done"
